@@ -1,10 +1,10 @@
 # Sony
 
-共 146 个项目，近半年内活跃项目 38 个，1 个团队， 18423 个 Star。
+共 146 个项目，近半年内活跃项目 38 个，1 个团队， 18426 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-09-06 08:19:02
+统计时间：2026-09-07 08:25:00
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@
 | [nnabla](https://github.com/sony/nnabla) | Neural Network Libraries | Python | 2773 | Apache License 2.0 | 2017-06-26 | 2026-09-04 | 2026-07-24 |
 | [easyhttpcpp](https://github.com/sony/easyhttpcpp) | A cross-platform HTTP client library with a focus on usability and speed | C++ | 176 | MIT License | 2017-08-09 | 2026-07-28 | 2022-01-31 |
 | [nmos-cpp](https://github.com/sony/nmos-cpp) | An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05) | C++ | 190 | Apache License 2.0 | 2017-09-07 | 2026-09-05 | 2026-09-03 |
-| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 48 | Apache License 2.0 | 2017-09-07 | 2026-09-04 | 2026-09-04 |
+| [nmos-js](https://github.com/sony/nmos-js) | An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05) | JavaScript | 49 | Apache License 2.0 | 2017-09-07 | 2026-09-06 | 2026-09-04 |
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
@@ -39,11 +39,11 @@
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 357 | Apache License 2.0 | 2020-04-14 | 2026-07-21 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 64 | Apache License 2.0 | 2020-06-15 | 2026-07-29 | 2026-07-24 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 14 | MIT License | 2020-09-06 | 2026-04-23 | 2025-12-28 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1347 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-09-02 | 2025-07-25 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1348 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-09-07 | 2025-07-25 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 131 | Apache License 2.0 | 2021-06-11 | 2026-08-18 | 2026-08-18 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 109 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-05-21 | 2024-12-19 |
-| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 644 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-08-29 | 2025-07-09 |
+| [flutter-elinux](https://github.com/sony/flutter-elinux) | Flutter tools for embedded Linux (eLinux) | Dart | 645 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-09-06 | 2025-07-09 |
 | [flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) | Flutter plugins for embedded Linux (eLinux) | C++ | 61 | BSD 3-Clause "New" or "Revised" License | 2021-07-16 | 2026-05-18 | 2024-12-13 |
 | [ds-research-code](https://github.com/sony/ds-research-code) | None | Python | 6 | - | 2021-07-19 | 2026-06-14 | 2026-03-27 |
 | [pyIEOE](https://github.com/sony/pyIEOE) | None | Python | 32 | MIT License | 2021-07-20 | 2025-07-22 | 2025-02-21 |
