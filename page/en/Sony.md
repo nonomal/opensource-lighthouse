@@ -1,15 +1,15 @@
 # Sony
 
-A total of 146 projects, 38 active projects in the last six months, 1 teams, and 18437 stars.
+A total of 147 projects, 39 active projects in the last six months, 1 teams, and 18438 stars.
 
 Top 3 Languages: Python, C++, JavaScript
 
-Statistics Date: 2026-09-10 08:22:16
+Statistics Date: 2026-09-11 08:21:34
 
 | Project | Description | Language | Number of Stars | License | Creation Date | Last Updated Date | Last Pushed Date |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | Go | 3693 | MIT License | 2015-05-29 | 2026-09-07 | 2026-02-07 |
-| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4410 | MIT License | 2015-05-29 | 2026-09-09 | 2026-02-12 |
+| [sonyflake](https://github.com/sony/sonyflake) | A distributed unique ID generator inspired by Twitter's Snowflake | Go | 4411 | MIT License | 2015-05-29 | 2026-09-10 | 2026-02-12 |
 | [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) | None | JavaScript | 14 | Apache License 2.0 | 2015-06-08 | 2017-02-19 | 2016-05-26 |
 | [cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) | None | JavaScript | 16 | Apache License 2.0 | 2015-09-01 | 2022-09-17 | 2016-11-24 |
 | [v8eval](https://github.com/sony/v8eval) | Multi-language bindings to JavaScript engine V8 | C++ | 420 | MIT License | 2015-09-18 | 2026-07-27 | 2020-12-29 |
@@ -28,7 +28,7 @@ Statistics Date: 2026-09-10 08:22:16
 | [cdp-js](https://github.com/sony/cdp-js) | Libraries/SDK modules for multi-platform application development | TypeScript | 22 | Apache License 2.0 | 2017-10-10 | 2024-02-11 | 2018-05-10 |
 | [cdp-lib](https://github.com/sony/cdp-lib) | Application template/libraries for cdp-js (Details: see cdp-js repository) | JavaScript | 6 | Apache License 2.0 | 2017-10-10 | 2017-11-13 | 2018-02-23 |
 | [cdp-cli](https://github.com/sony/cdp-cli) | Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository) | HTML | 7 | Apache License 2.0 | 2017-10-10 | 2020-12-13 | 2018-07-13 |
-| [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 312 | Apache License 2.0 | 2017-11-05 | 2026-07-29 | 2026-07-29 |
+| [nnabla-examples](https://github.com/sony/nnabla-examples) | Neural Network Libraries https://github.com/sony/nnabla - Examples | Python | 311 | Apache License 2.0 | 2017-11-05 | 2026-09-10 | 2026-07-29 |
 | [nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) | Neural Network Libraries - C Runtime | C | 58 | Apache License 2.0 | 2018-06-26 | 2026-08-01 | 2026-07-24 |
 | [mapray-js](https://github.com/sony/mapray-js) | JavaScript library for Interactive high quality 3D globes and maps in the browser | TypeScript | 155 | Apache License 2.0 | 2019-01-28 | 2026-07-29 | 2025-07-25 |
 | [typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) | Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa. | TypeScript | 10 | MIT License | 2019-01-29 | 2025-11-14 | 2020-01-24 |
@@ -39,7 +39,7 @@ Statistics Date: 2026-09-10 08:22:16
 | [ai-research-code](https://github.com/sony/ai-research-code) | None | Python | 357 | Apache License 2.0 | 2020-04-14 | 2026-07-21 | 2023-09-12 |
 | [nnabla-nas](https://github.com/sony/nnabla-nas) | Neural Architecture Search for Neural Network Libraries | Python | 64 | Apache License 2.0 | 2020-06-15 | 2026-07-29 | 2026-07-24 |
 | [micro-notifier](https://github.com/sony/micro-notifier) | Simplified Pusher Clone | Go | 14 | MIT License | 2020-09-06 | 2026-04-23 | 2025-12-28 |
-| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1348 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-09-07 | 2025-07-25 |
+| [flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) | Embedded Linux embedding for Flutter | C++ | 1349 | BSD 3-Clause "New" or "Revised" License | 2021-03-04 | 2026-09-11 | 2025-07-25 |
 | [lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) | None | Python | 0 | MIT License | 2021-03-25 | 2021-05-13 | 2021-05-13 |
 | [nnabla-rl](https://github.com/sony/nnabla-rl) | Deep reinforcement learning library built on top of Neural Network Libraries | Python | 131 | Apache License 2.0 | 2021-06-11 | 2026-08-18 | 2026-08-18 |
 | [meta-flutter](https://github.com/sony/meta-flutter) | Yocto recipes for Flutter Engine and custom embedders | BitBake | 109 | BSD 3-Clause "New" or "Revised" License | 2021-06-11 | 2026-05-21 | 2024-12-19 |
@@ -154,3 +154,4 @@ Statistics Date: 2026-09-10 08:22:16
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
 | [MusTBench](https://github.com/sony/MusTBench) | None | Python | 12 | MIT License | 2026-06-08 | 2026-09-03 | 2026-08-03 |
 | [mocopi-receiver-plugin-3dsmax](https://github.com/sony/mocopi-receiver-plugin-3dsmax) | None | C++ | 0 | Apache License 2.0 | 2026-06-23 | 2026-07-28 | 2026-07-17 |
+| [as-dt1-ros2-driver](https://github.com/sony/as-dt1-ros2-driver) | None | C++ | 0 | Apache License 2.0 | 2026-09-04 | 2026-09-10 | 2026-09-10 |
