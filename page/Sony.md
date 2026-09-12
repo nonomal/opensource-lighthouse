@@ -1,10 +1,10 @@
 # Sony
 
-共 147 个项目，近半年内活跃项目 39 个，1 个团队， 18438 个 Star。
+共 147 个项目，近半年内活跃项目 39 个，1 个团队， 18441 个 Star。
 
 语言 Top 3：Python, C++, JavaScript
 
-统计时间：2026-09-11 08:21:34
+统计时间：2026-09-12 08:18:57
 
 | 项目 | 简介 | 语言 | Star 数 | 协议 | 创建时间 | 最后更新时间 | 最后提交时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -130,7 +130,7 @@
 | [mocopi-receiver-plugin-motionbuilder](https://github.com/sony/mocopi-receiver-plugin-motionbuilder) | None | C++ | 5 | Apache License 2.0 | 2025-08-26 | 2026-03-13 | 2026-01-20 |
 | [mocopi-receiver-plugin-maya](https://github.com/sony/mocopi-receiver-plugin-maya) | None | C++ | 3 | Apache License 2.0 | 2025-08-26 | 2026-08-23 | 2026-01-29 |
 | [mocopi-receiver-plugin-unrealengine](https://github.com/sony/mocopi-receiver-plugin-unrealengine) | None | C++ | 5 | Apache License 2.0 | 2025-08-26 | 2026-09-04 | 2026-09-04 |
-| [mocopi-receiver-plugin-blender](https://github.com/sony/mocopi-receiver-plugin-blender) | None | Python | 4 | Apache License 2.0 | 2025-08-26 | 2026-09-02 | 2026-07-24 |
+| [mocopi-receiver-plugin-blender](https://github.com/sony/mocopi-receiver-plugin-blender) | None | Python | 5 | Apache License 2.0 | 2025-08-26 | 2026-09-12 | 2026-09-11 |
 | [mocopi-motion-serializer](https://github.com/sony/mocopi-motion-serializer) | None | C++ | 14 | Apache License 2.0 | 2025-08-26 | 2026-07-06 | 2025-12-22 |
 | [LibriTTS-VI](https://github.com/sony/LibriTTS-VI) | None | None | 8 | - | 2025-09-02 | 2026-06-08 | 2026-06-08 |
 | [oms](https://github.com/sony/oms) | Official Repo for The Paper "OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent” (EMNLP’25-main) | Python | 0 | MIT License | 2025-09-11 | 2025-09-26 | 2025-09-26 |
@@ -153,5 +153,5 @@
 | [mucs](https://github.com/sony/mucs) | Code for the paper “Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew” | Python | 5 | Apache License 2.0 | 2026-05-22 | 2026-07-28 | 2026-06-09 |
 | [guda](https://github.com/sony/guda) | None | Python | 1 | MIT License | 2026-05-27 | 2026-05-29 | 2026-05-29 |
 | [MusTBench](https://github.com/sony/MusTBench) | None | Python | 12 | MIT License | 2026-06-08 | 2026-09-03 | 2026-08-03 |
-| [mocopi-receiver-plugin-3dsmax](https://github.com/sony/mocopi-receiver-plugin-3dsmax) | None | C++ | 0 | Apache License 2.0 | 2026-06-23 | 2026-07-28 | 2026-07-17 |
+| [mocopi-receiver-plugin-3dsmax](https://github.com/sony/mocopi-receiver-plugin-3dsmax) | None | C++ | 2 | Apache License 2.0 | 2026-06-23 | 2026-09-11 | 2026-07-17 |
 | [as-dt1-ros2-driver](https://github.com/sony/as-dt1-ros2-driver) | None | C++ | 0 | Apache License 2.0 | 2026-09-04 | 2026-09-10 | 2026-09-10 |
